@@ -1,5 +1,12 @@
 # Changelog
 
+## [9.1.0](https://github.com/Bekaboo/dropbar.nvim/compare/v9.0.2...v9.1.0) (2024-12-17)
+
+
+### Features
+
+* **configs:** allow overriding default `on_click()` callback ([b63fe2e](https://github.com/Bekaboo/dropbar.nvim/commit/b63fe2ef7cc84a2193f867a0cfb6988a1233ab31))
+
 ## [9.0.2](https://github.com/Bekaboo/dropbar.nvim/compare/v9.0.1...v9.0.2) (2024-11-17)
 
 
